@@ -1,0 +1,12 @@
+com\nttdata\vitrina\service\CatalogLoaderService.class
+com\nttdata\vitrina\dto\FiltersResponse.class
+com\nttdata\vitrina\dto\PageResponse.class
+com\nttdata\vitrina\dto\ProductSummaryDto.class
+com\nttdata\vitrina\config\WebConfig.class
+com\nttdata\vitrina\repository\ProductRepository.class
+com\nttdata\vitrina\service\ProductService.class
+com\nttdata\vitrina\dto\ProductDetailDto.class
+com\nttdata\vitrina\model\Product.class
+com\nttdata\vitrina\service\impl\ProductServiceImpl.class
+com\nttdata\vitrina\VitrinaApplication.class
+com\nttdata\vitrina\controller\ProductController.class
